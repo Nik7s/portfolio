@@ -28,9 +28,9 @@ const About = () => {
         </AboutImageContainer>
         <AboutDetailsContainer>
           <StyledParagraph>
-            My name is Jericho P. Bantiquete, currently pursuing Bachelor of
-            Science in Information Technology in Pangasinan State University. I
-            am a passionate front-end developer based in Philippines.
+            My name is Martin P. Lucas, currently pursuing Bachelor of Science
+            in Information Technology in Strasbourg University. I am a
+            passionate front-end developer based in France.
           </StyledParagraph>
           <StyledParagraph>
             I love to design and create responsive websites or web apps from
@@ -47,7 +47,7 @@ const About = () => {
             <ResumeLink
               href={resume}
               icon={downloadIcon}
-              download="resume-jericho-bantiquete"
+              download="resume-martin-lucas"
             >
               Download Resume
             </ResumeLink>

@@ -26,8 +26,8 @@ const Home = () => {
   return (
     <IconContext.Provider value={{ size: "1rem" }}>
       <StyledHome id="home">
-        <Name>Jericho Bantiquete</Name>
-        <Title>Front-end Developer</Title>
+        <Name>Martin Lucas</Name>
+        <Title>Full Stack Developer</Title>
         <p>
           I <span className="change-text"></span>{" "}
           <span className="responsive">r</span>
@@ -81,21 +81,21 @@ const Home = () => {
         </Greeting>
         <Socials>
           <Social
-            href="mailto:jerichobantiquete@gmail.com"
+            href="mailto:pababravo@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaEnvelope />
           </Social>
           <Social
-            href="https://github.com/monciego"
+            href="https://github.com/pabaross"
             target="_blank"
             rel="noopener noreferrer"
           >
             <GoMarkGithub />
           </Social>
           <Social
-            href="https://www.linkedin.com/in/jericho-bantiquete-450541179/"
+            href="https://www.linkedin.com/in/martin-lucas-450541179/"
             target="_blank"
             rel="noopener noreferrer"
           >

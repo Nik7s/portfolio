@@ -47,7 +47,7 @@ const Footer = () => {
           <ContactHeader>Social</ContactHeader>{" "}
           <FooterSocials>
             <ContactLink
-              href="https://github.com/monciego"
+              href="https://github.com/pabaross"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -61,7 +61,7 @@ const Footer = () => {
               LinkedIn
             </ContactLink>
             <ContactLink
-              href="https://www.instagram.com/monciego/"
+              href="https://www.instagram.com/pabaross/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -86,7 +86,7 @@ const Footer = () => {
         <small>
           &copy; Copyright {year},{" "}
           <Small
-            href="https://github.com/monciego"
+            href="https://github.com/pabaross"
             target="_blank"
             rel="noopener noreferrer"
           >
