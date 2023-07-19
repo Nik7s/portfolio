@@ -100,7 +100,7 @@ const Navbar = () => {
         </NavList>
       </NavMenuList>
       <StyledCTA
-        href="mailto:jerichobantiquete@gmail.com "
+        href="mailto:pababravo@gmail.com "
         target="_blank"
         rel="noreferrer"
       >

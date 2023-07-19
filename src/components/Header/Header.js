@@ -6,8 +6,8 @@ export const Header = () => {
   return (
     <StyledHeader>
       This site is no longer updated. Go to &nbsp;
-      <ModalLink href="https://jerichobantiquete.vercel.app/">
-        jerichobantiquete.vercel.app
+      <ModalLink href="https://martinlucas.vercel.app/">
+        martinlucas.vercel.app
       </ModalLink>
     </StyledHeader>
   );

@@ -19,7 +19,7 @@ export const projectData = [
     image: project1Laptop,
     transitionImage: project1Mobile,
     title: "A meditation app",
-    codeLink: "https://github.com/monciego/meditation-app",
+    codeLink: "https://github.com/pabaross/meditation-app",
     liveLink: "https://umatter.netlify.app/",
   },
   {
@@ -27,7 +27,7 @@ export const projectData = [
     image: project2Laptop,
     transitionImage: project2Mobile,
     title: "Restaurant Website",
-    codeLink: "https://github.com/monciego/lediable-restaurant",
+    codeLink: "https://github.com/pabaross/lediable-restaurant",
     liveLink: "https://lediable.netlify.app/",
   },
   {
@@ -35,7 +35,7 @@ export const projectData = [
     image: project3Laptop,
     transitionImage: project3Mobile,
     title: "Interior Design Company",
-    codeLink: "https://github.com/monciego/elegancev1",
+    codeLink: "https://github.com/pabaross/elegancev1",
     liveLink: "https://eleganceee.netlify.app/",
   },
   {
@@ -43,7 +43,7 @@ export const projectData = [
     image: project4Laptop,
     transitionImage: project4Mobile,
     title: "IT Company",
-    codeLink: "https://github.com/monciego/coderig-landing-page",
+    codeLink: "https://github.com/pabaross/coderig-landing-page",
     liveLink: "https://codeegrid.netlify.app/",
   },
   {
@@ -51,7 +51,7 @@ export const projectData = [
     image: project5Laptop,
     transitionImage: project5Mobile,
     title: "Gym Fitness Website",
-    codeLink: "https://github.com/monciego/intrepide",
+    codeLink: "https://github.com/pabaross/intrepide",
     liveLink: "https://intrepide.netlify.app/",
   },
   {
@@ -59,7 +59,7 @@ export const projectData = [
     image: project6Laptop,
     transitionImage: project6Mobile,
     title: "Space Tourism",
-    codeLink: "https://github.com/monciego/space-tourism",
+    codeLink: "https://github.com/pabaross/space-tourism",
     liveLink: "https://spacetourism-monciego.netlify.app/",
   },
 ];

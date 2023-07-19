@@ -32,7 +32,7 @@ const Footer = () => {
 
       <FooterBigLinkContainer>
         <FooterBigLink
-          href="mailto:jerichobantiquete@gmail.com"
+          href="mailto:pababravo@gmail.com"
           data-hover="Let's talk!"
         >
           Need a developer?
@@ -41,7 +41,7 @@ const Footer = () => {
       <FooterContacts>
         <FooterContact>
           <ContactHeader>Call me</ContactHeader>
-          <ContactLink href="tel:+639951076206">+639951076206</ContactLink>
+          <ContactLink href="tel:+">+639951076206</ContactLink>
         </FooterContact>
         <FooterContact>
           <ContactHeader>Social</ContactHeader>{" "}
@@ -54,7 +54,7 @@ const Footer = () => {
               GitHub
             </ContactLink>
             <ContactLink
-              href="https://www.linkedin.com/in/jericho-bantiquete-450541179/"
+              href="https://www.linkedin.com/in/martin-lucas-450541179/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -72,7 +72,7 @@ const Footer = () => {
         <FooterContact>
           <ContactHeader>Let's grab a coffee.</ContactHeader>
           <ContactLink href="tel:+639951076206">
-            jerichobantiquete@gmail.com
+            pababravo@gmail.com
           </ContactLink>
         </FooterContact>
       </FooterContacts>
@@ -90,7 +90,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Jericho Bantiquete
+            Martin Lucas
           </Small>
         </small>
       </Copyright>

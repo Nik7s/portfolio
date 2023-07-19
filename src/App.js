@@ -20,7 +20,7 @@ function App() {
     "color: white; font-weight: 500; font-size:16px"
   );
   console.log(
-    "%cYou can check the code here https://github.com/monciego/portfolio",
+    "%cYou can check the code here https://github.com/pabaross/portfolio",
     "color: white; font-weight: 500; font-size:16px"
   );
 
