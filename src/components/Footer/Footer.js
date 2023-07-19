@@ -41,7 +41,7 @@ const Footer = () => {
       <FooterContacts>
         <FooterContact>
           <ContactHeader>Call me</ContactHeader>
-          <ContactLink href="tel:+">+639951076206</ContactLink>
+          <ContactLink href="tel:+">+33170988490</ContactLink>
         </FooterContact>
         <FooterContact>
           <ContactHeader>Social</ContactHeader>{" "}
@@ -71,9 +71,7 @@ const Footer = () => {
         </FooterContact>
         <FooterContact>
           <ContactHeader>Let's grab a coffee.</ContactHeader>
-          <ContactLink href="tel:+639951076206">
-            pababravo@gmail.com
-          </ContactLink>
+          <ContactLink href="tel:+33170988490">pababravo@gmail.com</ContactLink>
         </FooterContact>
       </FooterContacts>
 

@@ -27,7 +27,7 @@ const Home = () => {
     <IconContext.Provider value={{ size: "1rem" }}>
       <StyledHome id="home">
         <Name>Martin Lucas</Name>
-        <Title>Full Stack Developer</Title>
+        <Title>Full Stack Developer And Designer</Title>
         <p>
           I <span className="change-text"></span>{" "}
           <span className="responsive">r</span>

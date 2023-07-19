@@ -28,9 +28,9 @@ const About = () => {
         </AboutImageContainer>
         <AboutDetailsContainer>
           <StyledParagraph>
-            My name is Martin P. Lucas, currently pursuing Bachelor of Science
-            in Information Technology in Strasbourg University. I am a
-            passionate front-end developer based in France.
+            My name is Martin Lucas, currently pursuing Bachelor of Science in
+            Information Technology in Strasbourg University. I am a passionate
+            front-end developer based in France.
           </StyledParagraph>
           <StyledParagraph>
             I love to design and create responsive websites or web apps from

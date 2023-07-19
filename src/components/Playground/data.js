@@ -21,14 +21,14 @@ export const projectsData = [
   {
     id: 3,
     projectName: "New Year Countdown",
-    hasLink: false,
+    hasLink: true,
     liveLink: "",
     img: countdown,
   },
   {
     id: 4,
     projectName: "Awwwards Clone",
-    hasLink: false,
+    hasLink: true,
     liveLink: "",
     img: awwwards,
   },

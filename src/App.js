@@ -10,8 +10,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import ParallaxComponent from "./components/Parallax/Parallax";
 import Technologies from "./components/Technologies/Technologies";
 import Playground from "./components/Playground/Playground";
-import Modal from "./components/Modal/Modal";
-import { useState } from "react";
+
 import { Header } from "./components/Header/Header";
 
 function App() {
@@ -24,19 +23,18 @@ function App() {
     "color: white; font-weight: 500; font-size:16px"
   );
 
-  const [open, setOpen] = useState(true);
+  // const [open, setOpen] = useState(true);
 
-  const toggleHandler = () => {
-    setOpen((prev) => !prev);
-  };
+  // const toggleHandler = () => {
+  //   setOpen((prev) => !prev);
+  // };
 
   return (
     <Router>
       <ThemeProvider theme={theme}>
         <>
           <GlobalStyles />
-          {open && <Modal toggleHandler={toggleHandler} />}
-          {!open && <Header />}
+          <Header/>
           <Navbar />
           <Home />
           <Projects />

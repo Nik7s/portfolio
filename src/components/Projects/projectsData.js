@@ -11,9 +11,41 @@ import {
   project5Mobile,
   project6Laptop,
   project6Mobile,
+  project7Laptop,
+  project7Mobile,
+  project8Laptop,
+  project8Mobile,
+  project9Laptop,
+  project9Mobile,
+  project10Laptop,
+  project10Mobile,
 } from "./projectImages";
 
 export const projectData = [
+  {
+    id: 7,
+    image: project7Laptop,
+    transitionImage: project7Mobile,
+    title: "Class Closet",
+    codeLink: "",
+    liveLink: "https://classyclosets.com/",
+  },
+  {
+    id: 8,
+    image: project8Laptop,
+    transitionImage: project8Mobile,
+    title: "BCT",
+    codeLink: "",
+    liveLink: "https://www.bcthk.com/zh",
+  },
+  {
+    id: 9,
+    image: project9Laptop,
+    transitionImage: project9Mobile,
+    title: "True CBD Cannabis",
+    codeLink: "",
+    liveLink: "https://matruecannabis.com/en/",
+  },
   {
     id: 1,
     image: project1Laptop,
@@ -61,5 +93,13 @@ export const projectData = [
     title: "Space Tourism",
     codeLink: "https://github.com/pabaross/space-tourism",
     liveLink: "https://spacetourism-monciego.netlify.app/",
+  },
+  {
+    id: 10,
+    image: project10Laptop,
+    transitionImage: project10Mobile,
+    title: "Wedding",
+    codeLink: "",
+    liveLink: "https://www.anniversaire.co.jp/",
   },
 ];
