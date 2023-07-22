@@ -19,6 +19,10 @@ import {
   project9Mobile,
   project10Laptop,
   project10Mobile,
+  project11Laptop,
+  project11Mobile,
+  project12Laptop,
+  project12Mobile,
 } from "./projectImages";
 
 export const projectData = [
@@ -45,6 +49,22 @@ export const projectData = [
     title: "True CBD Cannabis",
     codeLink: "",
     liveLink: "https://matruecannabis.com/en/",
+  },
+  {
+    id: 11,
+    image: project11Laptop,
+    transitionImage: project11Mobile,
+    title: "Hayu",
+    codeLink: "",
+    liveLink: "https://get.hayu.com/welcome?geo=HK",
+  },
+  {
+    id: 12,
+    image: project12Laptop,
+    transitionImage: project12Mobile,
+    title: "Hello Fresh",
+    codeLink: "",
+    liveLink: "https://www.hellofresh.com/",
   },
   {
     id: 1,

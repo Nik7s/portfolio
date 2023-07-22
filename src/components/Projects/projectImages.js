@@ -18,6 +18,10 @@ import project9Laptop from "../../assets/projects/project-9-laptop.jpg";
 import project9Mobile from "../../assets/projects/project-9-mobile.jpg";
 import project10Laptop from "../../assets/projects/project-10-laptop.jpg";
 import project10Mobile from "../../assets/projects/project-10-mobile.jpg";
+import project11Laptop from "../../assets/projects/project-11-laptop.jpg";
+import project11Mobile from "../../assets/projects/project-11-mobile.jpg";
+import project12Laptop from "../../assets/projects/project-12-laptop.jpg";
+import project12Mobile from "../../assets/projects/project-12-mobile.jpg";
 
 export {
   project1Laptop,
@@ -40,4 +44,8 @@ export {
   project9Mobile,
   project10Laptop,
   project10Mobile,
+  project11Laptop,
+  project11Mobile,
+  project12Laptop,
+  project12Mobile,
 };
